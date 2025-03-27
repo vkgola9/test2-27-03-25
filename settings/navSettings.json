@@ -1,0 +1,144 @@
+{
+    "navItems": [
+        {
+            "item": "Home",
+            "location": "header",
+            "to": "/",
+            "icon": "HomeIcon",
+            "page": "Index",
+            "pageTitle": "Trusted HVAC Contractors Near You | Kent AC Repair",
+            "pageDesc": "Looking for reliable heating and air contractors near you? Kent AC Repair offers expert HVAC services, repairs, and installations. Call now for a free consultation!"
+        },
+        {
+            "item": "Cooling",
+            "disabled": 0,
+            "location": "header",
+            "to": "/cooling/services",
+            "icon": "Snowflake",
+            "subItems": [
+                {
+                    "item": "Services",
+                    "location": "header",
+                    "to": "/cooling/services",
+                    "page": "CoolingServices",
+                    "pageTitle": "AC Service Near Me | Reliable AC Maintenance Nearby Kent, WA",
+                    "pageDesc": "Need AC service near you? Trust Kent AC Repair for expert AC maintenance and repair in Kent, WA. Keep your cooling efficient schedule your service today!"
+                },
+                {
+                    "item": "AC Installation",
+                    "location": "header",
+                    "to": "/cooling/ac-installation",
+                    "page": "ACInstallation",
+                    "pageTitle": "Expert AC Installation Near You | Kent AC Repair",
+                    "pageDesc": "Need AC installation near you? Kent AC Repair provides expert air conditioner installation, repairs, and energy-efficient cooling solutions. Call for a consultation!"
+                },
+                {
+                    "item": "AC Repairs",
+                    "location": "header",
+                    "to": "/cooling/ac-repair",
+                    "page": "ACRepair",
+                    "pageTitle": "Fast & Reliable AC Repair Near You | Kent AC Repair Offers Best Local Service",
+                    "pageDesc": "Looking for AC repair near you? Kent AC Repair offers expert air conditioner repair, maintenance, and emergency services to keep your home cool. Call now at 253-220-9930!"
+                },
+                {
+                    "item": "Ductless Systems",
+                    "location": "header",
+                    "to": "/cooling/ductless-systems",
+                    "page": "DuctlessSystems",
+                    "pageTitle": "Ductless Mini Split Repair | Efficient Local Service Kent, WA",
+                    "pageDesc": "Need ductless mini split repair in Kent, WA? Kent AC Repair offers expert diagnosis, fast repairs, and maintenance for ductless systems. Call now at 253-220-9930!"
+                },
+                {
+                    "item": "Emergency Cooling Repairs",
+                    "location": "header",
+                    "to": "/cooling/emergency-repairs",
+                    "page": "EmergencyCoolingRepairs",
+                    "pageTitle": "Emergency AC Repair Near Me | Fast Fix for AC Not Cooling",
+                    "pageDesc": "Is the AC not cooling? Get fast emergency AC repair near you with Kent AC Repair. 24/7 service to restore your comfort quickly call now at 253-220-9930!"
+                }
+            ]
+        },
+        {
+            "item": "Heating",
+            "disabled": 0,
+            "location": "header",
+            "to": "/heating/services",
+            "icon": "Flame",
+            "subItems": [
+                {
+                    "item": "Services",
+                    "location": "header",
+                    "to": "/heating/services",
+                    "page": "HeatingServices",
+                    "pageTitle": "Expert Heating & HVAC Servicing | Kent AC Repair",
+                    "pageDesc": "Need reliable heating or HVAC servicing? We offer expert furnace, boiler & heat pump installation, repair & maintenance. Call Kent AC Repair today!"
+                },
+                {
+                    "item": "Furnace Installation",
+                    "location": "header",
+                    "to": "/heating/furnace-installation",
+                    "page": "FurnaceInstallation",
+                    "pageTitle": "Expert Furnace Installation & Repair Near Me | Kent AC Repair",
+                    "pageDesc": "Need furnace repair near you? We offer expert furnace installation & repair services for a warm, energy-efficient home. Call now at 253-220-9930 for fast, reliable service!"
+                },
+                {
+                    "item": "Boiler Repairs",
+                    "location": "header",
+                    "to": "/heating/boiler-repair",
+                    "page": "BoilerRepair",
+                    "pageTitle": "Expert Boiler Repair Solutions Kent, WA | Fast & Reliable Service",
+                    "pageDesc": "Need expert boiler repair in Kent, WA? Kent AC Repair offers fast, reliable solutions for all boiler issues. Certified technicians and transparent pricing. Call now 253-220-9930!"
+                },
+                {
+                    "item": "Heat Pump Repairs",
+                    "location": "header",
+                    "to": "/heating/heat-pump-services",
+                    "page": "HeatPumpServices",
+                    "pageTitle": "Heat Pump Repair Near Me | Reliable Service Experts Kent, WA",
+                    "pageDesc": "Looking for heat pump repair near you? Kent AC Repair offers expert installation and maintenance in Kent, WA, as well as fast repairs to keep your home comfortable year-round."
+                },
+                {
+                    "item": "Emergency Heating Repairs",
+                    "location": "header",
+                    "to": "/heating/emergency-repairs",
+                    "page": "EmergencyHeatingRepairs",
+                    "pageTitle": "24/7 HVAC Repair Near Me | Fast Emergency Heating Service",
+                    "pageDesc": "Need urgent HVAC repair? We provide 24/7 emergency heating services to restore warmth fast. Call now for reliable, expert heat and air repair near you!"
+                }
+            ]
+        },
+        {
+            "item": "FAQ",
+            "location": "header",
+            "to": "/faq",
+            "icon": "MessageCircleQuestion",
+            "page": "FAQ",
+            "pageTitle": "HVAC FAQ | Expert Answers for Heating & Cooling | Kent AC Repair",
+            "pageDesc": "Get answers to common HVAC questions at Kent AC Repair. Learn about maintenance, repairs, energy efficiency, and more to keep your system running smoothly."
+        },
+        {
+            "item": "Contact",
+            "location": "header",
+            "to": "/contact",
+            "page": "Contact",
+            "pageTitle": "Contact Kent AC Repair | Get a Free Quote Today",
+            "pageDesc": "Need HVAC help? Contact Kent AC Repair for inquiries or a free quote. Call or fill out our form emergency services available 24/7!"
+        },
+        {
+            "item": "Privacy Policy",
+            "location": "footer",
+            "to": "/privacy-policy",
+            "page": "PrivacyPolicy",
+            "pageTitle": "Privacy Policy | Our Commitment to Your Data",
+            "pageDesc": "Learn how we collect, protect, and use your information. Our policy is designed to keep your data secure and your privacy respected."
+        },
+        {
+            "item": "Terms of Use",
+            "location": "footer",
+            "to": "/terms-of-use",
+            "page": "TermsOfUse",
+            "pageTitle": "Terms of Use | Guidelines for Our Services",
+            "pageDesc": "Understand the terms and conditions that apply when using our HVAC services and website. We’re here to provide clarity and support."
+        }
+    ]
+}

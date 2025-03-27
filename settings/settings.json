@@ -1,0 +1,47 @@
+{
+    "Year": 2024,
+    "Niche": "Heating & Cooling",
+    "Company": "Kent AC Repair",
+    "CompanyTagline": "Your AC & Heating Experts in Kent, WA",
+    "OwnerName": "Owner_Full_Name",
+    "OwnerEmail": "support@kentacrepair.com",
+    "CompanyLegalEntity": "Kent AC Repair, LLC",
+    "URL": "https://kentacrepair.com",
+    "Title": "Kent AC Maintenance and Repair",
+
+    "MyCompany": "LeadsGenuity",
+    "MyCompanyURL": "https://leadsgenuity.com",
+    "MyEmail": "support@kentacrepair.com",
+    "MyCompanyLegalEntity": "LeadsGenuity, LLC",
+
+    "TwitterHandle": "@local-heatncool",
+    "PPEffectiveDate": "January 1, 2024",
+    "ToUEffectiveDate": "January 1, 2024",
+
+    "PhoneNo": "253-220-9930",
+    "EmergencyPhoneNo": "253-220-9930",
+    "Email": "support@kentacrepair.com",
+    "Street":"11525 SE 240th St",
+    "City": "Kent",
+    "State": "Washington",
+    "Zip": "WA",
+    "StateAbbr": "WA",
+    "Address": "Kent, WA",
+    "Country": "United States",
+    "CountryISO": "US",
+
+    "ServiceAreas": [],
+    "ServiceZips": [],
+    "IncludeAreasInTitle": 1,
+    "BotDetectInterval": 7,
+
+    "IncludeMarketingWebsiteDisclaimer": 0,
+    "IncludeCreatedBy": 1,
+    "IncludeTestimonials": 0,
+    
+    "BusinessHours" : {
+        "Schedule1":"Monday - Friday: 8:00 AM - 6:00 PM",
+        "Schedule2":"Saturday: 9:00 AM - 4:00 PM",
+        "Schedule3":"Sunday: 10:00 AM - 2:00 PM"
+    }
+}

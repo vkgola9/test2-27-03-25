@@ -1,0 +1,25 @@
+{
+  "services": [
+    {
+      "title": "Heating Services",
+      "link": "/heating/services",
+      "items": [
+        "Furnace Installation and Repair",
+        "Boiler Services",
+        "Heat Pump Repair and Maintenance",
+        "Emergency Heating Repair"
+      ]
+    },
+    {
+      "title": "Cooling Services",
+      "link": "/cooling/services",
+      "items": [
+        "AC Installation and Replacement",
+        "AC Repair and Maintenance",
+        "Ductless Mini-Split Systems",
+        "Emergency AC Repair"
+      ]
+    }
+  ]
+}
+  

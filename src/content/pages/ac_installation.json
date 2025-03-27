@@ -1,0 +1,52 @@
+{
+    "title": "AC Installation",
+    "imgUrl": "/img/h-ac-i.webp",
+    "sections": [
+      {
+        "title": "Professional AC Installation Services",
+        "content": [
+          "Stay cool and comfortable all summer long with our professional Air Conditioning installation services. At {settings.Company}, our team of certified technicians is dedicated to helping you choose the perfect Air Conditioning system for your home and ensuring a flawless installation process.",
+          "Whether you're upgrading an existing system or new A/C installation in a new construction, we have the expertise to deliver efficient and reliable cooling solutions tailored to your specific needs."
+        ]
+      },
+      {
+        "title": "Our AC Installation Process",
+        "steps": [
+          { "item": "Initial Assessment", "description": "We evaluate your home's cooling requirements and discuss your preferences." },
+          { "item": "System Recommendation", "description": "Our experts suggest the most suitable AC units based on your home's size, layout, and energy efficiency goals." },
+          { "item": "Custom Installation Plan", "description": "We create a tailored installation plan to ensure optimal performance and efficiency." },
+          { "item": "Professional Installation", "description": "Our skilled technicians perform the installation with precision and attention to detail." },
+          { "item": "System Testing and Calibration", "description": "We thoroughly test and calibrate your new AC system to ensure peak performance." },
+          { "item": "User Guidance", "description": "We provide comprehensive instructions on operating and maintaining your new AC system." }
+        ]
+      },
+      {
+        "title": "Benefits of Our AC Installation Service",
+        "steps": [
+          { "description": "Energy-efficient systems to reduce your utility bills." },
+          { "description": "Expert advice on selecting the right AC unit for your space." },
+          { "description": "Professional installation by certified technicians." },
+          { "description": "Comprehensive testing and calibration for optimal performance." },
+          { "description": "Extended warranties on both equipment and labor." },
+          { "description": "Ongoing maintenance support to keep your AC running smoothly." },
+          { "description": "Improved indoor air quality with advanced filtration options." }
+        ]
+      },
+      {
+        "title": "Types of AC Systems We Install",
+        "steps": [
+          { "description": "Central Air Conditioning Systems" },
+          { "description": "Ductless Mini-Split Systems" },
+          { "description": "Heat Pumps" },
+          { "description": "Smart and WiFi-Enabled AC Systems" },
+          { "description": "High-Efficiency ENERGY STAR Certified Units" }
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Ready for a Cooler, More Comfortable Home?",
+      "description": "Don't wait until the heat hits! Contact us today to schedule your AC installation consultation and enjoy a cool, comfortable home all summer long.",
+      "buttonText": "Schedule Consultation",
+      "buttonLink": "/contact"
+    }
+}

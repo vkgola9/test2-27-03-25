@@ -1,0 +1,77 @@
+{
+  "title": "Frequently Asked Questions (FAQ)",
+  "imgUrl": "/img/faq-bg.webp",
+  "items": [
+    {
+      "question": "How often should I service my heating and cooling system?",
+      "answer": "We recommend servicing your HVAC system at least once a year. Ideally, you should have your air conditioning unit checked in the spring and your heating system serviced in the fall to ensure they operate efficiently all year round."
+    },
+    {
+      "question": "What are the signs that my HVAC system needs repair?",
+      "answer": "Common signs include strange noises, uneven temperature distribution, higher energy bills, weak airflow, and unpleasant odors. If you notice any of these issues, it's time to call a professional for an inspection."
+    },
+    {
+      "question": "How can I improve the efficiency of my heating and cooling system?",
+      "answer": "Regular maintenance is key to efficiency. Additionally, replacing your air filters, sealing duct leaks, installing a programmable thermostat, and ensuring proper insulation in your home can greatly improve your system’s efficiency."
+    },
+    {
+      "question": "Why is my air conditioner blowing warm air?",
+      "answer": "Warm air from your AC could be caused by a number of factors, including low refrigerant levels, dirty air filters, blocked vents, or a malfunctioning compressor. A professional inspection can help diagnose and resolve the issue."
+    },
+    {
+      "question": "What should I do if my heating system isn’t working?",
+      "answer": "First, check your thermostat settings and make sure it's set to the desired temperature. Then, check your circuit breakers and ensure your furnace or heater is receiving power. If neither of these steps fixes the issue, contact a professional for an inspection."
+    },
+    {
+      "question": "How long does a typical HVAC system last?",
+      "answer": "On average, HVAC systems last between 15 to 20 years. Regular maintenance can help extend the lifespan of your system. If your system is nearing this age, it may be time to start considering a replacement to avoid frequent repairs."
+    },
+    {
+      "question": "How can I reduce energy costs with my heating and cooling system?",
+      "answer": "You can reduce energy costs by regularly maintaining your HVAC system, replacing air filters, installing a programmable thermostat, sealing ducts, and ensuring proper insulation in your home. Upgrading to energy-efficient systems can also lower your bills."
+    },
+    {
+      "question": "What size HVAC system do I need for my home?",
+      "answer": "The size of your HVAC system depends on factors such as the size of your home, insulation levels, and climate. An HVAC professional can perform a load calculation to determine the correct system size for your home, ensuring optimal efficiency and performance."
+    },
+    {
+      "question": "Should I repair or replace my HVAC system?",
+      "answer": "If your system is less than 10 years old and the repair costs are minimal, it's usually more cost-effective to repair. However, if your system is older, inefficient, or requires frequent repairs, it might be time to consider a replacement for long-term savings."
+    },
+    {
+      "question": "How do I know if my ducts are leaking?",
+      "answer": "Signs of leaky ducts include higher energy bills, uneven heating or cooling, excessive dust, and weak airflow. A professional can perform a duct inspection and recommend sealing options to improve your system’s efficiency and performance."
+    },
+    {
+      "question": "What is a programmable thermostat, and how can it save me money?",
+      "answer": "A programmable thermostat allows you to set a heating and cooling schedule based on your daily routine, reducing energy usage when you're not home. This can lead to significant savings on your energy bills by optimizing your HVAC system’s performance."
+    },
+    {
+      "question": "How often should I change my air filters?",
+      "answer": "Air filters should be replaced every 1 to 3 months, depending on usage and whether you have pets or allergies. Regular filter changes improve air quality and help your HVAC system run more efficiently, extending its lifespan."
+    },
+    {
+      "question": "Can an HVAC system help with allergies?",
+      "answer": "Yes, a well-maintained HVAC system with clean filters and proper humidity control can help reduce allergens in your home. Consider using high-efficiency particulate air (HEPA) filters to trap allergens like dust, pollen, and pet dander."
+    },
+    {
+      "question": "How can I improve the indoor air quality of my home?",
+      "answer": "Improving indoor air quality involves regular HVAC maintenance, changing filters frequently, using air purifiers, and ensuring proper ventilation. You can also add humidifiers or dehumidifiers, depending on your local climate."
+    },
+    {
+      "question": "What is the difference between a heat pump and a furnace?",
+      "answer": "A heat pump can both heat and cool your home by transferring heat, while a furnace only heats by burning fuel or using electricity. Heat pumps are more energy-efficient in moderate climates, while furnaces may be better for colder regions."
+    },
+    {
+      "question": "How can I prevent my HVAC system from freezing up?",
+      "answer": "To prevent freezing, ensure proper airflow by cleaning or replacing filters regularly, keep refrigerant levels topped up, and have a professional check for any leaks or blockages in the system. Proper maintenance can prevent these issues."
+    }
+  ],
+  "cta": {
+    "title": "Time to Upgrade Your Heating/Cooling System?",
+    "description": "Enjoy enhanced comfort and energy savings with our advanced heating solutions. Reach out today for personalized advice and professional service.",
+    "buttonText": "Book a Consultation",
+    "buttonLink": "/contact"
+  }
+}
+  

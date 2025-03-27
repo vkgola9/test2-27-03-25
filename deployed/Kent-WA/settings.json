@@ -1,0 +1,33 @@
+{
+    "Year": 2024,
+    "Niche": "Heating & Cooling",
+    "Company": "Kent AC Repair",
+    "OwnerName": "Owner_Full_Name",
+    "OwnerEmail": "support@leadsgenuity.com",
+    "CompanyLegalEntity": "Kent AC Repair, LLC",
+    "URL": "https://local-heatncool.com",
+
+    "TwitterHandle": "@local-heatncool",
+    "PPEffectiveDate": "January 1, 2024",
+    "ToUEffectiveDate": "January 1, 2024",
+
+    "PhoneNo": "430-999-4003",
+    "EmergencyPhoneNo": "430-999-4003",
+    "Email": "support@kentacrepair.com",
+    "City": "Kent",
+    "State": "Washington",
+    "StateAbbr": "WA",
+    "Address": "Kent, WA",
+
+    "Areas": [],
+    "ServiceZips": [],
+    "IncludeAreasInTitle": 1,
+    "BotDetectInterval": 7,
+    "IncludeMarketingWebsiteDisclaimer": 0,
+    
+    "BusinessHours" : {
+        "Schedule1":"Monday - Friday: 8:00 AM - 6:00 PM",
+        "Schedule2":"Saturday: 9:00 AM - 4:00 PM",
+        "Schedule3":"Sunday: Closed"
+    }
+}

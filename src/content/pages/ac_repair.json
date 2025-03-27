@@ -1,0 +1,50 @@
+{
+    "title": "AC Repair Services",
+    "imgUrl": "/img/h-ac-m4.webp",
+    "sections": [
+      {
+        "title": "Expert AC Repair Service",
+        "content": [
+          "When your Air Conditioning system fails, {settings.Company} is here to provide fast, reliable repair services. Our team of certified technicians has the expertise to diagnose and fix any AC issue, ensuring your home stays cool and comfortable.",
+          "We understand the importance of a functioning AC system, especially during hot summer months. That's why we offer prompt service and efficient repairs to minimize downtime and restore your comfort quickly."
+        ]
+      },
+      {
+        "title": "Our AC Repair Process",
+        "cards": [
+          { "title": "Thorough Diagnosis", "description": "We use advanced diagnostic tools to accurately identify the root cause of your Air Conditioning problems." },
+          { "title": "Clear Explanation", "description": "We provide a detailed explanation of the issue and present repair options with transparent pricing." },
+          { "title": "Efficient Repair", "description": "Our skilled technicians perform repairs quickly and effectively, using high-quality parts." }
+        ]
+      },
+      {
+        "title": "Common AC Issues We Repair",
+        "steps": [
+          { "description": "Insufficient cooling" },
+          { "description": "Strange noises or odors" },
+          { "description": "Refrigerant leaks" },
+          { "description": "Frozen evaporator coils" },
+          { "description": "Faulty compressors" },
+          { "description": "Thermostat malfunctions" },
+          { "description": "Clogged drain lines" },
+          { "description": "Electrical issues" }
+        ]
+      },
+      {
+        "title": "Why Choose Us for AC Repair?",
+        "cards": [
+          { "title": "Emergency Service", "description": "We're available around the clock to handle urgent AC repair needs, ensuring you're never left in discomfort." },
+          { "title": "Experienced Technicians", "description": "Our team consists of fully licensed and insured professionals with extensive experience in AC repair." },
+          { "title": "Upfront Pricing", "description": "We provide clear, honest pricing with no hidden fees, so you know exactly what to expect." },
+          { "title": "Warranty on Repairs", "description": "We stand behind our work with a warranty on all AC repair services for your peace of mind." }
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Ready for a Cooler, More Comfortable Home?",
+      "description": "Don't wait until the heat hits! Contact us today to schedule your AC installation consultation and enjoy a cool, comfortable home all summer long.",
+      "buttonText": "Schedule Consultation",
+      "buttonLink": "/contact"
+    }
+}
+  

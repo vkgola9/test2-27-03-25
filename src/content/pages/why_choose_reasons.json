@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "ThumbsUp",
+    "title": "Quality Service",
+    "description": "We deliver top-notch service with attention to detail. Our commitment to excellence ensures that every job meets the highest standards. Trust us to provide reliable and efficient solutions tailored to your needs."
+  },
+  {
+    "icon": "Award",
+    "title": "Certified Experts",
+    "description": "Our team consists of licensed and experienced professionals. Each member is fully certified and trained to handle a wide range of services. Count on us for skillful work and peace of mind in every project."
+  },
+  {
+    "icon": "Clock",
+    "title": "Availability",
+    "description": "We're here for you around the clock for emergencies. Day or night, you can count on our team to respond promptly. We prioritize quick, efficient service whenever you need us most."
+  },
+  {
+    "icon": "PhoneCall",
+    "title": "Free Consultation",
+    "description": "Get expert advice with our no-obligation consultations. We'll assess your needs and guide you toward the best solutions. Take the first step to a successful project with personalized support from our team."
+  }
+]

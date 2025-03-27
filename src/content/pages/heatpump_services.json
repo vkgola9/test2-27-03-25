@@ -1,0 +1,48 @@
+{
+    "title": "Heat Pump Repair Installation Maintenance Services",
+    "image": { "src": "/img/h-ac-m.webp", "alt": "Heat Pump Services" },
+    "sections": [
+      {
+        "title": "Comprehensive Heat Pump Solutions",
+        "paragraphs": [
+          "At {settings.Company}, we offer a full range of heat pump services to keep your home comfortable year-round. Our expert technicians are skilled in installation, maintenance, and repair of all types of heat pump systems.",
+          "Whether you're looking to upgrade to an energy-efficient heat pump or need service for your existing system, we have the expertise to meet your needs."
+        ]
+      },
+      {
+        "title": "Our Heat Pump Services",
+        "cardCollection": [
+          { "title": "Installation", "description": "Expert installation of new heat pump systems, ensuring optimal performance and efficiency." },
+          { "title": "Maintenance", "description": "Regular maintenance to keep your heat pump running smoothly and prevent unexpected breakdowns." },
+          { "title": "Repair", "description": "Fast, reliable repairs to get your heat pump back up and running quickly when issues arise." }
+        ]
+      },
+      {
+        "title": "Benefits of Heat Pump Systems",
+        "list": [
+          { "description": "Energy-efficient heating and cooling in one system" },
+          { "description": "Lower operating costs compared to traditional HVAC systems" },
+          { "description": "Environmentally friendly operation with reduced carbon footprint" },
+          { "description": "Consistent, even temperature control throughout your home" },
+          { "description": "Improved indoor air quality with built-in air filtration" },
+          { "description": "Quiet operation for enhanced comfort" }
+        ]
+      },
+      {
+        "title": "Why Choose Us for Heat Pump Services?",
+        "cardCollection": [
+          { "title": "Experienced Technicians", "description": "Our team is certified and experienced in all aspects of heat pump technology." },
+          { "title": "Quality Equipment", "description": "We work with top manufacturers to provide you with reliable, efficient heat pump systems." },
+          { "title": "Customized Solutions", "description": "We tailor our services to meet your specific heating and cooling needs." },
+          { "title": "Ongoing Support", "description": "We offer continued support and maintenance to ensure long-term satisfaction with your heat pump system." }
+        ]
+      }
+    ],
+    "callToAction": {
+      "title": "Ready to Explore Heat Pump Solutions?",
+      "description": "Contact us today to learn more about how a heat pump system can benefit your home.",
+      "buttonText": "Schedule Consultation",
+      "buttonLink": "/contact"
+    }
+}
+  

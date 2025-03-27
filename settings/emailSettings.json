@@ -1,0 +1,13 @@
+{
+    "Host"    : "box.kentacrepair.com",
+    "SMTPAuth": true,
+    "Username": "noreply@kentacrepair.com",
+    "Password": "Fj79o4~lL`gh",
+    "SMTPSecure": "tls",
+    "Port"    : 587,
+    "contactTo"  : "support@kentacrepair.com",
+    "contactFrom": "noreply@kentacrepair.com",
+    "contactFromName": "NoReply",
+    "contactToName"  : "Support",
+    "contactSubject" : "Contact Form Submitted by"
+}

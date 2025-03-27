@@ -1,0 +1,15 @@
+{
+    "heroSection": {
+      "subtitle": "Your trusted partner for all heating and cooling needs in the area.",
+      "buttonText": "Get a Free Quote",
+      "bgimg": "/img/hi.webp"
+    },
+    "ctaSection": {
+      "title": "Free Quote for Superior Comfort!",
+      "description": "Contact us today for a free consultation and let us help you achieve the perfect indoor climate.",
+      "buttonText": "Get in Touch",
+      "buttonLink": "/contact",
+      "sectionClass": "py-8 bg-indigo-100 text-center dark:bg-indigo-900 p-8 rounded-lg mb-12"
+    }
+  }
+  

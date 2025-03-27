@@ -1,0 +1,50 @@
+{
+    "title": "Emergency AC Repairs",
+    "imgUrl": "/img/h-ac-r2.webp",
+    "imgAlt": "Emergency AC Repair",
+    "mainSection": {
+      "title": "Round-the-Clock Emergency AC Repair Services",
+      "content": [
+        "At {Company}, we understand that AC emergencies can happen at any time, day or night. That's why we offer emergency repair services to ensure your home or business stays cool and comfortable, no matter when issues arise.",
+        "Our team of skilled technicians is always on standby, ready to respond quickly to your AC emergencies, providing fast and effective solutions to get your system back up and running."
+      ]
+    },
+    "sections": [
+      {
+        "title": "Our Emergency AC Repair Process",
+        "titleSize": "3",
+        "titleAlign": "0",
+        "type": "cards",
+        "cardsPerRow": "3",
+        "cardAlign": "0",
+        "cardGap": "6",
+        "cardTitleSize": "1",
+        "cards": [
+          { "title": "Immediate Response", "description": "We prioritize emergency calls and dispatch technicians promptly to address your AC crisis." },
+          { "title": "Thorough Diagnosis", "description": "Our experts quickly identify the root cause of the problem using advanced diagnostic tools." },
+          { "title": "Rapid Repairs", "description": "We carry a wide range of parts in our service vehicles to complete most repairs on-site, minimizing downtime." }
+        ]
+      },
+      {
+        "title": "Common AC Emergencies We Handle",
+        "titleSize": "3",
+        "titleAlign": "0",
+        "type": "list",
+        "steps": [
+          { "description": "Complete system failure" },
+          { "description": "Unusual noises or odors from your AC unit" },
+          { "description": "Sudden loss of cooling" },
+          { "description": "Water leaks or flooding" },
+          { "description": "Frozen evaporator coils" },
+          { "description": "Electrical issues" },
+          { "description": "Refrigerant leaks" }
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Experiencing an AC Emergency?",
+      "description": "Don't suffer in the heat. Contact us immediately for fast, reliable emergency AC repair services.",
+      "buttonText": "Call Now for Emergency Service"
+    }
+}
+  

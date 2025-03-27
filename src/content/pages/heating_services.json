@@ -1,0 +1,46 @@
+{
+    "title": "Heating Services",
+    "imgUrl": "/img/h-hv-p.webp",
+    "imgAlt": "Heating Services",
+    "sections": [
+      {
+        "title": "Furnace Installation and Repair",
+        "titleLink": "/heating/furnace-installation",
+        "content": [
+          "At Kent AC Repair, our expert technicians specialize in furnace installation and repair, ensuring your home stays warm and comfortable during the cold months. We work with all major brands and models, providing efficient and reliable heating solutions.",
+          "Whether you need a new furnace installed or your existing one repaired, our team has the skills and experience to get the job done right. We offer energy-efficient options to help reduce your utility bills and improve your home's comfort."
+        ]
+      },
+      {
+        "title": "Boiler Repair",
+        "titleLink": "/heating/boiler-repair",
+        "content": [
+          "From installation to repair and maintenance, our boiler services keep your home efficiently heated. We work with various boiler types, including gas, oil, and electric systems.",
+          "Our technicians are trained to handle all aspects of boiler care, from routine maintenance to complex repairs. We ensure your boiler operates at peak efficiency, providing consistent heat and hot water while minimizing energy consumption."
+        ]
+      },
+      {
+        "title": "Heat Pump Repair, Installation and Maintenance",
+        "titleLink": "/heating/heat-pump-services",
+        "content": [
+          "Heat pumps offer an energy-efficient solution for both heating and cooling. Our services cover installation, maintenance, and repair of heat pump systems, helping you maintain optimal comfort year-round.",
+          "We specialize in both air-source and ground-source heat pumps, providing tailored solutions for your specific needs. Our team will help you choose the right system, ensure proper installation, and provide ongoing maintenance to keep your heat pump running efficiently for years to come."
+        ]
+      },
+      {
+        "title": "Emergency Heating Repairs",
+        "titleLink": "/heating/emergency-repairs",
+        "content": [
+          "We understand that heating emergencies can happen at any time. That's why we offer emergency repair services to our valued customers.",
+          "Our emergency team is always ready to respond quickly to your heating crisis. Whether it's a furnace breakdown in the middle of the night or a boiler issue on a holiday, we're here to restore your comfort as quickly as possible. We arrive equipped with the tools and parts to handle most repairs on the spot."
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Ready to Upgrade Your Heating System?",
+      "description": "Experience the comfort and efficiency of our heating solutions. Contact us today for expert advice and service.",
+      "buttonText": "Schedule a Consultation",
+      "buttonLink": "/contact"
+    }
+}
+  

@@ -1,0 +1,39 @@
+{
+    "title": "Radiant Heating Solutions",
+    "image": { "src": "/img/h-ac-m2.webp", "alt": "Radiant Heating" },
+    "sections": [
+      {
+        "title": "Efficient and Comfortable Radiant Heating",
+        "paragraphs": [
+          "At {settings.Company}, we specialize in radiant heating solutions that provide efficient, comfortable, and even heat distribution throughout your home. Our radiant heating systems offer a superior alternative to traditional forced-air heating, ensuring a cozy environment without the noise and drafts associated with conventional systems.",
+          "Whether you're looking to install a new radiant heating system or upgrade your existing one, our team of experts is here to guide you through the process and deliver a tailored solution for your home."
+        ]
+      },
+      {
+        "title": "Our Radiant Heating Services",
+        "cardCollection": [
+          { "title": "Installation", "description": "Expert installation of radiant floor heating, wall panels, and ceiling systems for new constructions or retrofits." },
+          { "title": "Maintenance", "description": "Regular maintenance to ensure your radiant heating system operates at peak efficiency and longevity." },
+          { "title": "Repair", "description": "Swift and effective repairs for any issues with your radiant heating system to restore comfort quickly." }
+        ]
+      },
+      {
+        "title": "Benefits of Radiant Heating",
+        "list": [
+          { "description": "Even heat distribution for consistent comfort" },
+          { "description": "Energy-efficient operation to reduce heating costs" },
+          { "description": "Improved indoor air quality with reduced dust circulation" },
+          { "description": "Silent operation for a peaceful home environment" },
+          { "description": "Versatile installation options for various floor types" },
+          { "description": "Zoned heating capabilities for personalized comfort" }
+        ]
+      }
+    ],
+    "callToAction": {
+      "title": "Experience the Comfort of Radiant Heating",
+      "description": "Ready to transform your home's heating system? Contact us today to learn more about our radiant heating solutions and schedule a consultation.",
+      "buttonText": "Schedule Consultation",
+      "buttonLink": "/contact"
+    }
+}
+  

@@ -1,0 +1,66 @@
+{
+    "title": "Ductless System Services",
+    "imgUrl": "/img/h-ac-r.webp",
+    "mainSection": {
+      "title": "Efficient Ductless Cooling Solutions",
+      "content": [
+        "{Company} specializes in ductless mini-split systems, offering a flexible and energy-efficient alternative to traditional HVAC systems. Our ductless solutions provide targeted cooling and heating, perfect for homes without existing ductwork or for adding climate control to specific areas.",
+        "Whether you're looking to install a new ductless system, maintain an existing one, or need repairs, our expert team is here to ensure your comfort year-round."
+      ]
+    },
+    "sections": [
+      {
+        "title": "Our Ductless System Services",
+        "titleSize": "3",
+        "titleAlign": "0",
+        "type": "cards",
+        "cardsPerRow": "3",
+        "cardAlign": "0",
+        "cardGap": "6",
+        "cardTitleSize": "1",
+        "cards": [
+          { "title": "Installation", "description": "Professional installation of ductless mini-split systems, customized to your home's specific needs." },
+          { "title": "Maintenance", "description": "Regular maintenance to keep your ductless system operating at peak efficiency and prevent issues." },
+          { "title": "Repair", "description": "Expert diagnosis and repair of ductless system issues to restore comfort quickly." }
+        ]
+      },
+      {
+        "title": "Benefits of Ductless Systems",
+        "titleSize": "3",
+        "titleAlign": "0",
+        "type": "list",
+        "steps": [
+          { "description": "Energy efficiency: Save on utility bills with targeted cooling and heating" },
+          { "description": "Flexibility: Cool or heat individual rooms as needed" },
+          { "description": "Easy installation: No need for extensive ductwork" },
+          { "description": "Improved air quality: Built-in air filtration systems" },
+          { "description": "Quiet operation: Enjoy comfort without noise disruption" },
+          { "description": "Space-saving design: Compact units that don't take up much room" },
+          { "description": "Year-round comfort: Both cooling and heating capabilities" }
+        ]
+      },
+      {
+        "title": "Why Choose Us for Ductless Systems?",
+        "titleSize": "3",
+        "titleAlign": "0",
+        "type": "cards",
+        "cardsPerRow": "2",
+        "cardAlign": "0",
+        "cardGap": "6",
+        "cardTitleSize": "1",
+        "cards": [
+          { "title": "Expert Knowledge", "description": "Our technicians are specially trained in ductless system technology and installation techniques." },
+          { "title": "Quality Products", "description": "We partner with top manufacturers to offer reliable, efficient ductless systems." },
+          { "title": "Customized Solutions", "description": "We design ductless solutions tailored to your specific home layout and comfort needs." },
+          { "title": "Ongoing Support", "description": "We provide continued maintenance and support to ensure long-term satisfaction with your ductless system." }
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Ready to Explore Ductless Cooling Options?",
+      "description": "Contact us today to learn how a ductless system can enhance your home's comfort and efficiency.",
+      "buttonText": "Schedule Consultation",
+      "buttonLink": "/contact"
+    }
+}
+  

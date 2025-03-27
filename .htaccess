@@ -1,0 +1,22 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Redirect all requests to the dist folder
+  RewriteRule ^$ /dist/ [L]
+
+  # Serve static files directly from dist folder (including sitemap.xml)
+  RewriteCond %{DOCUMENT_ROOT}/dist/%{REQUEST_URI} -f [OR]
+  RewriteCond %{DOCUMENT_ROOT}/dist/%{REQUEST_URI} -d
+  RewriteRule ^(.*)$ /dist/$1 [L]
+
+  # Route non-static requests to index.php.prod in the dist folder
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^.*$ /dist/index.php [L,QSA]
+
+  ExpiresActive On
+  # Set a 1-year cache time for images
+  <FilesMatch "\.(ico|webp|svg|png|jpg|jpeg|gif)$">
+      ExpiresDefault "access plus 1 year"
+  </FilesMatch>
+</IfModule>

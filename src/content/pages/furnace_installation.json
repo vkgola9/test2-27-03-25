@@ -1,0 +1,51 @@
+{
+    "title": "Furnace Installation",
+    "image": { "src": "/img/h-hv-m5.webp", "alt": "Furnace Installation" },
+    "sections": [
+      {
+        "title": "Upgrade Your Home's Heating System",
+        "paragraphs": [
+          "At {settings.Company}, we specialize in professional furnace installation services designed to enhance your home's comfort and energy efficiency. Our team of expert technicians ensures a seamless installation process, providing you with a reliable and efficient heating solution that will keep your home warm for years to come.",
+          "Whether you're replacing an old furnace or installing a heating system in a new construction, we have the expertise to handle projects of all sizes and complexities."
+        ]
+      },
+      {
+        "title": "Our Furnace Installation Process",
+        "list": [
+          { "item": "Initial Consultation", "description": "We assess your home's heating needs and discuss your preferences." },
+          { "item": "System Selection", "description": "Our experts help you choose the right furnace based on your home's size, budget and efficiency goals." },
+          { "item": "Professional Installation", "description": "Our certified technicians perform the installation with precision and care." },
+          { "item": "System Testing", "description": "We thoroughly test the new furnace to ensure optimal performance and safety." },
+          { "item": "User Education", "description": "We provide comprehensive guidance on operating and maintaining your new heating system." }
+        ]
+      },
+      {
+        "title": "Why Choose Our Furnace Installation?",
+        "list": [
+          { "description": "Expert technicians with years of experience in furnace installation" },
+          { "description": "High-efficiency furnace options to reduce energy costs and environmental impact" },
+          { "description": "Proper sizing and installation for optimal performance and longevity" },
+          { "description": "Warranty-backed installations for your peace of mind" },
+          { "description": "Flexible scheduling to minimize disruption to your daily life" },
+          { "description": "Competitive pricing and financing options available" }
+        ]
+      },
+      {
+        "title": "Types of Furnaces We Install",
+        "list": [
+          { "description": "Gas Furnaces" },
+          { "description": "Electric Furnaces" },
+          { "description": "Oil Furnaces" },
+          { "description": "Propane Furnaces" },
+          { "description": "High-Efficiency Modulating Furnaces" }
+        ]
+      }
+    ],
+    "callToAction": {
+      "title": "Ready to Upgrade Your Home's Heating?",
+      "description": "Contact us today to schedule your furnace installation consultation and take the first step towards a more comfortable and energy-efficient home.",
+      "buttonText": "Schedule Consultation",
+      "buttonLink": "/contact"
+    }
+}
+  

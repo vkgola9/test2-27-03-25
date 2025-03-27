@@ -1,0 +1,52 @@
+{
+    "title": "Commercial HVAC Solutions",
+    "imgUrl": "/img/c-ac-r2.webp",
+    "sections": [
+      {
+        "title": "Comprehensive Commercial HVAC Services",
+        "content": [
+          "{settings.Company} offers a full range of commercial HVAC solutions designed to meet the unique needs of businesses, industrial facilities, and commercial properties. Our team of skilled technicians understands the critical role that HVAC systems play in maintaining a comfortable and productive work environment.",
+          "From installation and maintenance to repairs and energy-efficient upgrades, we provide comprehensive services to ensure your commercial HVAC system operates at peak performance year-round."
+        ]
+      },
+      {
+        "title": "Our Commercial HVAC Services",
+        "titleSize": 3,
+        "titleAlign": 0,
+        "cards": [
+          {
+            "title": "System Design & Installation",
+            "description": "Custom HVAC system design and professional installation tailored to your commercial space's specific requirements."
+          },
+          {
+            "title": "Preventive Maintenance",
+            "description": "Regular maintenance programs to optimize system performance, prevent breakdowns, and extend equipment lifespan."
+          },
+          {
+            "title": "Emergency Repairs",
+            "description": "Emergency repair services to quickly address HVAC issues and minimize business disruptions."
+          }
+        ]
+      },
+      {
+        "title": "Why Choose Us for Commercial HVAC?",
+        "titleSize": 3,
+        "titleAlign": 0,
+        "steps": [
+          { "description": "Experienced technicians specialized in commercial HVAC systems" },
+          { "description": "Energy-efficient solutions to reduce operational costs" },
+          { "description": "Customized maintenance plans to suit your business needs" },
+          { "description": "State-of-the-art diagnostic tools for accurate problem identification" },
+          { "description": "Compliance with all relevant industry standards and regulations" },
+          { "description": "Minimal disruption to your business operations during service" }
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Ready to Optimize Your Commercial HVAC System?",
+      "description": "Contact us today to discuss your commercial HVAC needs and schedule a consultation with our experts.",
+      "buttonText": "Schedule Consultation",
+      "buttonLink": "/contact"
+    }
+}
+  

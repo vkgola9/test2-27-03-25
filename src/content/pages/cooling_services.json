@@ -1,0 +1,45 @@
+{
+    "title": "Cooling Services",
+    "imgUrl": "/img/h-ac-r3.webp",
+    "sections": [
+      {
+        "title": "AC Installation and Replacement",
+        "titleLink": "/cooling/ac-installation",
+        "content": [
+          "Our expert team provides top-notch AC installation and replacement services. We help you choose the right system for your home and ensure a perfect installation for optimal cooling efficiency.",
+          "Whether you're installing a new AC system or replacing an old one, we offer a wide range of energy-efficient options. Our technicians are trained in the latest installation techniques, ensuring your new system performs at its best from day one. We also properly dispose of your old unit in an environmentally friendly manner."
+        ]
+      },
+      {
+        "title": "AC Repair and Maintenance",
+        "titleLink": "/cooling/ac-repair",
+        "content": [
+          "Keep your AC running smoothly with our comprehensive repair and maintenance services. We diagnose issues quickly and provide effective solutions to ensure your comfort all summer long.",
+          "Our maintenance programs are designed to catch small issues before they become big problems, saving you money and preventing unexpected breakdowns. For repairs, we use advanced diagnostic tools to pinpoint the exact issue and fix it right the first time. Our technicians are experienced with all major AC brands and models."
+        ]
+      },
+      {
+        "title": "Ductless Mini-Split Systems",
+        "titleLink": "/cooling/ductless-systems",
+        "content": [
+          "Ductless mini-split systems offer flexible, energy-efficient cooling solutions. We specialize in the installation, maintenance and repair of these innovative systems.",
+          "Perfect for homes without existing ductwork or for adding cooling to specific areas, ductless systems provide targeted comfort with high efficiency. Our experts can design a multi-zone system for your entire home or install a single unit for a problem area. We also provide regular maintenance to keep your ductless system operating at peak performance."
+        ]
+      },
+      {
+        "title": "Emergency AC Repairs",
+        "titleLink": "/cooling/emergency-repairs",
+        "content": [
+          "We offer round-the-clock emergency repair services to ensure your home or business stays cool, no matter when issues arise.",
+          "Our emergency team is always ready to respond to your cooling crisis. We understand that AC failures can be more than just uncomfortable – they can be dangerous in extreme heat. That's why we prioritize emergency calls and aim to restore your cooling as quickly as possible. Our technicians arrive fully equipped to handle most repairs on the spot."
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Stay Cool and Comfortable",
+      "description": "Ready to improve your home's cooling efficiency? Contact us today for expert advice and top-quality cooling solutions.",
+      "buttonText": "Schedule a Consultation",
+      "buttonLink": "/contact"
+    }
+}
+  
